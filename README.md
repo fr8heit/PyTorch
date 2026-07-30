@@ -19,8 +19,6 @@
   > materials belong to their respective authors. My study notes, code changes,
   > and execution results are recorded separately through the commit history.
 
-  ———
-
   ## 🎯 Repository Objectives
 
   - AI Hardware–Software Understanding: Connect high-level PyTorch operations
@@ -36,8 +34,6 @@
   - Code and Concept Notes: Document implementation details, mathematical
     derivations, observations, and execution behavior directly in Jupyter
     Notebooks.
-
-  ———
 
    ## 📂 Learning Roadmap and Topics
 
