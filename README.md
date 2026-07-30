@@ -1,4 +1,4 @@
- # PyTorch & Deep Learning Study Lab
+ # 🧠 PyTorch & Deep Learning Study Lab
 
   Welcome! This repository is a personal learning archive for studying
   deep learning fundamentals and their implementation in PyTorch.
@@ -21,7 +21,7 @@
 
   ———
 
-  ## Repository Objectives
+  ## 🎯 Repository Objectives
 
   - AI Hardware–Software Understanding: Connect high-level PyTorch operations
     and backpropagation algorithms with their underlying hardware execution.
@@ -39,7 +39,7 @@
 
   ———
 
-   ## Learning Roadmap and Topics
+   ## 📂 Learning Roadmap and Topics
 
   > The roadmap below follows the original curriculum of
   > [Deep Learning Zero to All — Season 2 (PyTorch)](https://github.com/deeplearningzerotoall/PyTorch).
@@ -89,7 +89,7 @@
   - **Lab 11-5:** RNN Sequence-to-Sequence
   - **Lab 11-6:** PackedSequence
 
-  ## Environment Setup
+  ## 🛠️ Environment Setup
 
   The exercises are performed in an isolated and reproducible Docker environment.
 
